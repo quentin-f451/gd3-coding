@@ -11,6 +11,8 @@ The schedule for the 4 tutorial courses is as follows.
 
 We will go back to the basics of the web, learn how to create a clean coding environment in HTML/CSS/JS using Github as our versioning tool and start with the basics of Javascript.
 
+https://github.com/quentin-f451/gd3-coding-tutorials-1
+
 ## Tutorials #2
 
 - **Dates:** 29.09.2022 (Sem 1) / 09.03.2023 (Sem 2)
