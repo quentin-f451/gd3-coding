@@ -291,7 +291,7 @@ if (number < 2 || number > 10) {
 #### Check that the condition is false
 
 ```js
-var number = 6;
+const number = 6;
 
 if (!number < 4) {
   console.log('The number is not smaller than 4');
