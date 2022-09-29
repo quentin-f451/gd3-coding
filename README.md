@@ -20,6 +20,8 @@ https://github.com/quentin-f451/gd3-coding-tutorials-1
 
 We will explore how to use Javascript and JSON as a tool to store, retrieve and process data on the web.
 
+https://github.com/quentin-f451/gd3-coding-tutorials-2
+
 ## Tutorials #3
 
 - **Dates:** 10.11.2022 (Sem 1) / 13.04.2023 (Sem 2)
