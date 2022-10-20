@@ -2,6 +2,8 @@
 
 Over the course of the 16-week semester, there will be 4 remote code tutorials to help you develop your interface for the assignment *An Atlas on the web*. Each of these 4 tutorials will focus on a different topic and will be punctuated with exercises to allow you to implement the skills you have learned.
 
+You can find a starterkit for starting a new coding project or prototype here: https://github.com/quentin-f451/gd3-coding-starterkit.
+
 ## Table of contents
 
 - [Schedule](#schedule)
