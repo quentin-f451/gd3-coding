@@ -27,29 +27,18 @@ We will go back to the basics of the web, learn how to create a clean coding env
 
 ### Tutorials #2
 
+https://github.com/quentin-f451/gd3-coding-tutorials-2
+
 - **Dates:** 29.09.2022 (Sem 1) / 09.03.2023 (Sem 2)
 - **Keywords:** Javascript, Objects, Arrays, JSON, API, Fetch
 
 We will explore how to use Javascript and JSON as a tool to store, retrieve and process data on the web.
 
-<<<<<<< HEAD
-https://github.com/quentin-f451/gd3-coding-tutorials-2
-
-## Tutorials #3
-=======
 ### Tutorials #3
->>>>>>> c646228921b36c567290530224ea038490b9c9e8
 
 - **Dates:** 10.11.2022 (Sem 1) / 13.04.2023 (Sem 2)
 - **Keywords:** Javascript, Bundling, Preprocessing, Server/Client
 We will explore how to use Javascript as a tool to create HTML and understand how we can work with it to enhance our development tools.
-
-### Tutorials #4
-
-- **Dates:** 24.11.2022 (Sem 1) / 11.05.2023 (Sem 2)
-- **Keywords:** CSS, Media queries, CSS-to-print
-
-We will explore how we can use CSS to adjust and transform a web interface into a _ready-to-print_ file.
 
 ***
 
